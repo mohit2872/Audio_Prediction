@@ -2,6 +2,6 @@
 
 We will implement the paper as written in the paper. 
 
-Then in second version we aim to improve learning speed of the sequential analysis by using LSTM instead of CB or HN. We also aim to improve the quality of predictions by putting metric 
+Then in second version we aim to improve learning speed of the sequential analysis by using LSTM instead of CB or HN. We also aim to improve the quality of predictions by putting metric analysis in the segmentation.
 
 For more information, read the Reference file. 
