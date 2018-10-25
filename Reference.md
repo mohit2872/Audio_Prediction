@@ -5,6 +5,9 @@ For feature extraction we will look into python speech features
 https://python-speech-features.readthedocs.io/en/latest/
 	For further understanding of MFCC go to the link:
 	http://www.practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
+	
+	For understanding the DCT, visit the following link:
+	https://dsp.stackexchange.com/questions/31/how-do-i-interpret-the-dct-step-in-the-mfcc-extraction-process
 
 For incremental clustering we will use Cobweb (not HDP-HMM as it is offline), taking help from the concept-formation library:
 https://concept-formation.readthedocs.io/en/latest/examples.html
